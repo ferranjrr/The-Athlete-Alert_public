@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/5892df22-d560-46f9-bb72-f7140e9ca5eb
 
 This demo showcases logging in, interacting with the map, accessing the current location, setting and managing the timer, and sending an SOS message.
 
-https://github.com/user-attachments/assets/4434773a-618b-4019-8fc2-bbe9baeae88e
+https://github.com/user-attachments/assets/5c46a037-b6be-40df-a565-f7979267ae76
 
 
 ## Emergency Alert from your watch
